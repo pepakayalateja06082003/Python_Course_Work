@@ -1,0 +1,155 @@
+Features of Python  : 2/08/2026
+
+
+Simple and Easy to Learn    >>   Uses clear, readable syntax. ==> code is short and easy syntax to write.
+
+Interpreted Language  >>  Executes code line by line without compilation. ==> the code  run every line (or) compilation one by one lines in code .
+
+Object-Oriented  >>  Supports classes and objects for reusable code. => we need to give the input and user is the key role playing  to working with Oop's .
+
+Platform Independent  >>  Runs on Windows, Linux, and macOS. => the code or program same but it will work (or) run in every software .
+
+Free and Open Source  >>  Available to use and modify at no cost. => it is use full to all in the  free source in online  and  no need to pay the any thing
+
+Dynamically Type >> No need to declare variable data types. => no need to use the variables  (int, string...etc)
+
+Large Standard Library  >> Includes built-in modules for many tasks. ==> task are in compilers by default (or) so many pack are install by default. 
+
+Extensive Third-Party Libraries  >> Thousands of packages are available through pip. => we can also install the other pack using pip.
+
+Automatic Memory Management  >> Uses garbage collection to manage memory. => remove the data from the code when no need of data.
+
+Supports Multiple Programming >> Supports procedural, object-oriented, and functional programming. ==> working more task.
+
+High-Level Language >> Abstracts low-level details, making development faster. ==> java, python.. etc are come I high language.
+
+Extensible and Embeddable >> Can be integrated with C/C++ and embedded in other application .
+
+
+
+#### oops _ Object-oriented programming 
+
+
+
+1. Encapsulation : Protect the data (or) limitation to data to see are axis for other.
+ex : Instagram account watching profile if public or private ….etc   
+
+2. Abstraction : Hide the internal process.
+ex : work behind the user like . calling to some one we only need to enter number but the process going back called is Abstraction.  ATM- Money withdraw. 
+
+3. Inheritance : parent to child .
+  ex : taking information from previse (or) old data to update or create new one. 
+
+4. Polymorphism : Same action, different behaviour (or) work.
+ex : YouTube and YouTube plus same app but different working. 
+       1+1=2 , Teja + P = Teja P  same function but different output.
+
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+# # Features of Python
+
+### Simple and Easy to Learn
+
+Definition: Uses clear and readable syntax.
+Easy Note: Code is short, simple, and easy to write and understand.
+
+---
+
+### Interpreted Language
+
+Definition: Executes code line by line without compilation.
+Easy Note: Python executes code one line at a time and reports errors when it reaches the incorrect line.
+
+---
+
+### Object-Oriented Programming (OOP)
+
+Definition: Supports classes and objects for reusable code.
+Easy Note: Uses classes and objects to organize code, making it reusable and easier to maintain.
+
+---
+
+### Platform Independent
+
+Definition: Runs on Windows, Linux, and macOS.
+Easy Note: The same Python program can run on different operating systems without changing the code.
+
+---
+
+### Free and Open Source
+
+Definition: Available to use and modify at no cost.
+Easy Note: Anyone can download, use, and modify Python for free.
+
+---
+
+### Dynamically Typed
+
+Definition: No need to declare variable data types.
+Easy Note: No need to declare data types like `int`, `float`, or `str`. Python automatically identifies the data type.
+
+---
+
+### Large Standard Library
+
+Definition: Includes built-in modules for many tasks.
+Easy Note: Python provides many built-in modules, so you don't need to install them separately.
+
+---
+
+### Extensive Third-Party Libraries
+
+Definition: Thousands of packages are available through `pip`.
+Easy Note: We can install additional packages using `pip` based on our project requirements.
+
+---
+
+### Automatic Memory Management
+
+Definition: Uses garbage collection to manage memory.
+Easy Note: Python automatically removes unused objects from memory using Garbage Collection.
+
+---
+
+### Supports Multiple Programming Paradigms
+
+Definition: Supports procedural, object-oriented, and functional programming.
+Easy Note: Python supports Procedural Programming, Object-Oriented Programming (OOP), and Functional Programming.
+
+---
+
+### High-Level Language
+
+Definition: Abstracts low-level details, making development faster.
+Easy Note: Python hides hardware and memory management details, making programming easier and faster.
+
+Examples: Python, Java, C#
+
+---
+
+### Extensible and Embeddable
+
+Definition: Can be integrated with C/C++ and embedded in other applications.
+Easy Note: Python can work with C/C++ and can be embedded into other applications.
+
+---
+
+## Quick Revision
+
+* Simple & Easy → Easy syntax.
+* Interpreted → Runs code line by line.
+* OOP → Uses classes and objects.
+* Platform Independent → Same code runs on different operating systems.
+* Free & Open Source → Free to use and modify.
+* Dynamically Typed → No need to declare data types.
+* Large Standard Library → Many built-in modules.
+* Third-Party Libraries → Install packages using `pip`.
+* Automatic Memory Management → Automatically frees unused memory.
+* Supports Multiple Programming Paradigms → Supports Procedural, OOP, and Functional Programming.
+* High-Level Language → Easy to write and hides low-level details.
+* Extensible & Embeddable → Works with C/C++ and other applications.
+
+
+
