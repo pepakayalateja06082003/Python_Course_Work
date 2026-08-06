@@ -1,0 +1,117 @@
+DATA TYPES(06/082026)
+
+ Python Data Types are mainly divided into:
+1. Numeric Types
+2. Sequence Types
+3. Set Types
+4. Mapping Type
+5. Boolean Type
+6. None Type
+
+
+## Python Data Types – Key Notes
+
+### 1. Numeric Types
+
+ Used to store numbers.
+ Types: `int`, `float`, `complex`
+ Memory: Stores numeric values directly.
+ All are Immutable.
+
+>>int
+
+Whole numbers
+No decimal point
+
+>>float
+
+ Decimal numbers
+Uses more memory than `int`
+
+>>complex
+
+Real + Imaginary numbers (`5+2j`)
+Used in scientific calculations
+
+---
+
+### 2. Sequence Types
+
+Store multiple values in order.
+Supports indexing.
+Types: `str`, `list`, `tuple`
+
+>> str
+
+
+Stores text
+Ordered, Indexed
+Immutable
+
+>>list
+
+Ordered, Indexed
+Allows duplicates
+Dynamic size
+Mutable
+
+>>tuple
+Ordered, Indexed
+Allows duplicates
+ Faster than list
+Immutable
+
+---
+
+### 3. Set Types
+
+ Store unique values.
+ No duplicates
+ Unordered
+ No indexing
+
+>>set
+
+Uses hashing
+Fast searching
+Mutable
+
+>> frozenset
+
+Immutable version of set
+Immutable
+
+---
+
+### 4. Mapping Type (`dict`)
+
+Stores key-value pairs
+Ordered (Python 3.7+)
+No duplicate keys
+Uses hash table
+Mutable
+
+---
+
+### 5. Boolean Type (`bool`)
+
+Values: `True`, `False`
+Used for conditions and comparisons
+`True = 1`, `False = 0`
+Immutable
+
+---
+
+### 6. None Type (`NoneType`)
+
+Represents absence of a value
+Used as a placeholder
+Singleton object (only one `None`)
+Immutable
+
+--
+
+
+
+
+
