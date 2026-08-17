@@ -1,0 +1,65 @@
+           Conditional Statements 
+==============================================
+
+Types :
+    1.Simple if         - Voting eligibility & product stock checks
+    2.If-else           - User login authentication & shopping discounts
+    3.Else ladder       - Temperature control systems & student grade assignment
+    4.Nested if         - Bank loan approval & online order processing
+######################################################################################
+
+
+#SIMPLE IF - Executes block only if condition is True
+
+age = 20
+
+if age >= 18:
+    print("You are eligible to vote")
+
+========================================================================================
+
+# IF-ELSE - Executes one block if True, another if False
+
+marks = 45
+
+if marks >= 50:
+    print("Pass")
+else:
+    print("Fail")
+
+========================================================================================
+
+# ELSE LADDER (IF-ELIF-ELSE) - Multiple conditions checked in sequence
+
+score = 75
+
+if score >= 90:
+    print("Grade: A")
+elif score >= 80:
+    print("Grade: B")
+elif score >= 70:
+    print("Grade: C")
+elif score >= 60:
+    print("Grade: D")
+else:
+    print("Grade: F")
+ 
+========================================================================================
+
+# NESTED IF - If statements inside another if statement
+
+age = 25
+salary = 50000
+
+if age >= 18:
+    print("Age is valid")
+    if salary > 30000:
+        print("Eligible for loan")
+    else:
+        print("Salary is too low")
+else:
+    print("Age is below 18")
+
+========================================================================================
+
+
