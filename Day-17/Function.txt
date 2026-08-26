@@ -1,0 +1,62 @@
+Python functions: definition, uses, and simple examples.
+
+A function is a reusable block of code that performs a specific task. 
+Functions help us avoid repeating code and make programs easier to read,
+test, and maintain.
+
+# Common advantages of functions:
+
+
+# 1. Reuse code instead of writing it repeatedly.
+# 2. Break a large program into smaller tasks.
+# 3. Accept inputs through parameters.
+# 4. Return results for use elsewhere in the program.
+# 5. Make code easier to read.
+# 6. Make programs easier to test.
+# 7. Make errors easier to find and fix.
+# 8. Keep related instructions together.
+# 9. Make changes safer and faster.
+# 10. Help organize and maintain a program.
+
+
+# Types of functions:
+
+# 1. Built-in functions
+#    Functions already provided by Python.
+print(len("Python"))
+
+# 2. User-defined functions
+#    Functions created by the programmer using the def keyword.
+def greet():
+	print("Hello!")
+
+greet()
+
+# 3. Functions with parameters
+#    Functions that accept input values.
+def add(a, b):
+	return a + b
+
+print(add(2, 3))
+
+# 4. Functions with a return value
+#    Functions that send a result back to the caller.
+def square(number):
+	return number * number
+
+print(square(4))
+
+# 5. Lambda functions
+#    Small anonymous functions written in one line.
+double = lambda number: number * 2
+print(double(5))
+
+# 6. Recursive functions
+#    Functions that call themselves to solve a problem.
+def countdown(number):
+	if number > 0:
+		print(number)
+		countdown(number - 1)
+
+countdown(3)
+
